@@ -1,4 +1,10 @@
-## Hi there 👋
+I'm Josh Carnis, a novice software developer. 
+
+Current interests are music producing, sports, and manga.
+Reach me at joshcarnis@gmail.com 
+~
+
+Romans 8:35 - "Who shall seperate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?"
 
 <!--
 **carnis7/carnis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
